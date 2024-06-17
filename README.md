@@ -1,7 +1,7 @@
 # Hi 👋. I'm Mehdi Masoumi
 ## An aspiring programmer who loves to learn new things . . .
 
-👯 I’m looking to collaborate on front-end web apps<br>🌱 I’m currently learning Next JS, MUI and other front-end stuff<br>💬 Ask me about any front-end lib or problem
+👯 I’m looking to collaborate on creating web apps<br>🌱 I’m currently learning Next JS, MUI and other front-end stuff<br>💬 Ask me about any front-end lib or problem
 
 
 ## 🌐 Socials:
