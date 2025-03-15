@@ -1,5 +1,5 @@
 # Hi 👋. I'm Mehdi Masoumi
-## An aspiring programmer who loves to learn new things . . .
+## A programmer who loves to learn new things . . .
 
 👯 I’m looking to collaborate on creating web apps and APIs<br>🌱 I’m currently learning C# and .NET ecosystem and other backend-end stuff<br>
 
